@@ -1,4 +1,4 @@
-# us-la-emergency-pack
+# Los Angeles emergency vehicles pack
 Los Angeles emergency pack. Replaces every emergency vehicle in GTA V (except police boat).
 
 ******************************************

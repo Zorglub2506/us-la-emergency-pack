@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CDataFileMgr__ContentsOfDataFileXml>
+	<disabledFiles />
+	<includedXmlFiles />
+	<dataFiles>
+		<Item>
+			<filename>dlc_patchDay25NG:/common/data/ExtraFolderMount.xml</filename>
+			<fileType>EXTRA_FOLDER_MOUNT_DATA</fileType>
+			<persistent value="true" />
+			<disabled value="true" />
+			<overlay value="true"/>
+		</Item>
+		<Item>
+			<filename>dlc_patchday25NG:/%PLATFORM%/levels/gta5/vehicles.rpf</filename>
+			<fileType>RPF_FILE</fileType>
+			<locked value="true"/>
+			<disabled value="true"/>
+			<persistent value="true"/>
+			<overlay value="true"/>
+		</Item>	
+		<Item>
+			<filename>dlc_patchday25NG:/%PLATFORM%/levels/patchday25ng/vehiclemods/weevil_mods.rpf</filename>
+			<fileType>RPF_FILE</fileType>
+			<locked value="true"/>
+			<disabled value="true"/>
+			<persistent value="true"/>
+			<overlay value="true"/>
+		</Item>	
+		<Item>
+			<filename>dlc_patchday25NG:/%PLATFORM%/levels/patchday25ng/vehiclemods/banshee_mods.rpf</filename>
+			<fileType>RPF_FILE</fileType>
+			<locked value="true"/>
+			<disabled value="true"/>
+			<persistent value="true"/>
+			<overlay value="true"/>
+		</Item>	
+		<Item>
+			<filename>dlc_patchday25NG:/%PLATFORM%/levels/patchday25ng/vehiclemods/kuruma_mods.rpf</filename>
+			<fileType>RPF_FILE</fileType>
+			<locked value="true"/>
+			<disabled value="true"/>
+			<persistent value="true"/>
+			<overlay value="true"/>
+		</Item>
+		<Item>
+		<filename>dlc_patchday25NG:/%PLATFORM%/anim/ingame/clip_anim@.rpf</filename>
+		<fileType>RPF_FILE</fileType>
+		<overlay value="false" />
+		<disabled value="true" />
+		<persistent value="true" />
+		</Item>
+		<Item>
+			<filename>dlc_patchday25NG:/%PLATFORM%/models/cdimages/patchday25ng_female.rpf</filename>
+			<fileType>RPF_FILE</fileType>
+			<overlay value="true" />
+			<disabled value="true" />
+			<persistent value="true" />
+		</Item>	
+		<Item>
+			<filename>dlc_patchday25NG:/%PLATFORM%/models/cdimages/patchday25ng_male.rpf</filename>
+			<fileType>RPF_FILE</fileType>
+			<overlay value="true" />
+			<disabled value="true" />
+			<persistent value="true" />
+		</Item>	
+		<Item>
+			<filename>dlc_patchday25NG:/%PLATFORM%/models/cdimages/patchday25ng.rpf</filename>
+			<fileType>RPF_FILE</fileType>
+			<overlay value="true" />
+			<disabled value="true" />
+			<persistent value="true" />
+		</Item>
+		<Item>
+			<filename>dlc_patchday25NG:/common/data/handling.meta</filename>
+			<fileType>HANDLING_FILE</fileType>
+			<overlay value="false" />
+			<disabled value="true" />
+			<persistent value="false" />
+		</Item>
+		<Item>
+			<filename>dlc_patchday25NG:/common/data/carcols.meta</filename>
+			<fileType>CARCOLS_FILE</fileType>
+			<overlay value="false" />
+			<disabled value="true" />
+			<persistent value="false" />
+		</Item>
+		<Item>
+			<filename>dlc_patchday25NG:/common/data/carvariations.meta</filename>
+			<fileType>VEHICLE_VARIATION_FILE</fileType>
+			<overlay value="false" />
+			<disabled value="true" />
+			<persistent value="false" />
+		</Item>
+		<Item>
+			<filename>dlc_patchday25NG:/common/data/vehiclelayouts.meta</filename>
+			<fileType>VEHICLE_LAYOUTS_FILE</fileType>
+			<overlay value="false" />
+			<disabled value="true" />
+			<persistent value="false" />
+		</Item>
+		<Item>
+			<filename>dlc_patchday25NG:/common/data/vehicles.meta</filename>
+			<fileType>VEHICLE_METADATA_FILE</fileType>
+			<overlay value="false" />
+			<disabled value="true" />
+			<persistent value="false" />
+		</Item>
+
+	</dataFiles>
+	<contentChangeSets>
+		<Item>
+			<changeSetName>CCS_PATCHDAY25_NG_INIT</changeSetName>
+			<filesToEnable>
+				<Item>dlc_patchDay25NG:/common/data/ExtraFolderMount.xml</Item>
+			</filesToEnable>
+		</Item>
+		<Item>
+			<changeSetName>CCS_PATCHDAY25_NG_STREAMING</changeSetName>
+			<filesToEnable>	
+				<Item>dlc_patchday25NG:/%PLATFORM%/levels/gta5/vehicles.rpf</Item>
+				<Item>dlc_patchday25NG:/%PLATFORM%/levels/patchday25ng/vehiclemods/weevil_mods.rpf</Item>
+				<Item>dlc_patchday25NG:/%PLATFORM%/levels/patchday25ng/vehiclemods/banshee_mods.rpf</Item>
+				<Item>dlc_patchday25NG:/%PLATFORM%/levels/patchday25ng/vehiclemods/kuruma_mods.rpf</Item>
+				<Item>dlc_PATCHDAY25NG:/%PLATFORM%/anim/ingame/clip_anim@.rpf</Item>
+				<Item>dlc_PATCHDAY25NG:/%PLATFORM%/models/cdimages/PATCHDAY25ng_female.rpf</Item>
+				<Item>dlc_PATCHDAY25NG:/%PLATFORM%/models/cdimages/PATCHDAY25ng_male.rpf</Item>
+				<Item>dlc_PATCHDAY25NG:/%PLATFORM%/models/cdimages/PATCHDAY25ng.rpf</Item>
+				<Item>dlc_patchday25NG:/common/data/handling.meta</Item>
+				<Item>dlc_patchday25NG:/common/data/carcols.meta</Item>
+				<Item>dlc_patchday25NG:/common/data/carvariations.meta</Item>
+				<Item>dlc_patchday25NG:/common/data/vehiclelayouts.meta</Item>
+				<Item>dlc_patchday25NG:/common/data/vehicles.meta</Item>
+			</filesToEnable>
+		</Item>
+	</contentChangeSets>
+	<patchFiles />
+</CDataFileMgr__ContentsOfDataFileXml>
