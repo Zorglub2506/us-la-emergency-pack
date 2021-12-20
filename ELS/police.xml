@@ -112,7 +112,7 @@
 			<SrnTone3 Enabled="false" Pattern="0" />
 			<SrnTone4 Enabled="false" Pattern="0" />
 			<PanicMde Enabled="false" Pattern="0" />
-			<OutOfVeh Enabled="true" Pattern="26" />
+			<OutOfVeh Enabled="true" Pattern="31" />
 		</ForcedPatterns>
 		<ScanPatternCustomPool Enabled="false" Sequential="true" >
 			<Pattern>0</Pattern>
