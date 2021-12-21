@@ -3,10 +3,10 @@
 <vcfroot Description="BCSO" Author="BradM" >
 	<!-- INTERFACE -->
 	<INTERFACE>
-		<LstgActivationType>auto</LstgActivationType>
+		<LstgActivationType>manual</LstgActivationType>
 		<DefaultSirenMode>standby</DefaultSirenMode>
 		<InfoPanelHeaderColor>grey</InfoPanelHeaderColor>
-		<InfoPanelButtonLightColor>red</InfoPanelButtonLightColor>
+		<InfoPanelButtonLightColor>blue</InfoPanelButtonLightColor>
 	</INTERFACE>
 	<!-- EXTRAS OVERRIDE AND ENV LIGHTING-->
 	<EOVERRIDE>	
