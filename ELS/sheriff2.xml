@@ -122,7 +122,7 @@
 		<PresetPatterns>
 			<Lstg1 Enabled="true" Pattern="8" />
 			<Lstg2 Enabled="true" Pattern="8" />
-			<Lstg3 Enabled="ture" Pattern="8" />
+			<Lstg3 Enabled="false" Pattern="0" />
 		</PresetPatterns>
 		<ForcedPatterns>
 			<MainHorn Enabled="false" Pattern="0" />
