@@ -5,8 +5,8 @@ Los Angeles emergency pack. Replaces every emergency vehicle in GTA V (except po
 Disclaimer
 ******************************************
 
-This mod is a "mod of mod". Original mods by uniFORM12oh2 and Candice. New skins and code modifications by HEAVY DUTY ELECTRO HOUSE (HDEH). 
-Packed by HDEH.
+This mod is a "mod of mod". Original mods by uniFORM12oh2 and Candice. New skins and code modifications by MGMods Studios (MGMS). 
+Packed by MGMS.
 
 Originally released at www.LCPDFR.com, licensed under 
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
@@ -45,7 +45,7 @@ Lights : Joshua Tanner of Justice Design, Cj24 of accuratestudio.com, blackjesus
 Other parts' devs : acobMC, Rockstar Games, JackTheDev, Maryland Modifications, HP Deskjet, MrPotato, bxbugs, Five0/OfficerFive0, Twurtleee, HDgamerzPC, Walters, holymaness, Sniper67, Koduuh, Michaelreedtomy, Cap'n Crunch, Thero, SHMURDA
 
 If I missed anyone it's because you didn't include a credit file. Sorry. 
-New textures and code modifications : HEAVY DUTY ELECTRO HOUSE
+New textures and code modifications : MGMods Studios
 Please report any bugs to me directly.  
 
 
@@ -59,7 +59,7 @@ If you have any questions/suggestions, contact me here : https://discord.gg/bbFc
 Installation
 ******************************************
 Drop 'vehicle.rpf' folder's content in : (OpenIV)
-	GTA V > mods > update > x64 > dlcpacks > patchday26ng > dlc.rpf > x64 > levels > gta5 > vehicle.rpf
+	GTA V > mods > update > x64 > dlcpacks > patchday28ng > dlc.rpf > x64 > levels > gta5 > vehicle.rpf
 
 Drop 'data' folder's content in : (OpenIV)
 	GTA V > mods > update > update.rpf > common > data
